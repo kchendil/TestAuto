@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5586" started-at="2014-06-11T10:18:34Z" finished-at="2014-06-11T10:18:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5586" started-at="2014-06-11T10:18:34Z" finished-at="2014-06-11T10:18:40Z">
+      <class name="Roles_SOAPEndpoints">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="setup" is-config="true" duration-ms="320" started-at="2014-06-11T15:48:34Z" finished-at="2014-06-11T15:48:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createRole()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="createRole" duration-ms="716" started-at="2014-06-11T15:48:34Z" finished-at="2014-06-11T15:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRole -->
+        <test-method status="PASS" signature="createRoleAid()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="createRoleAid" duration-ms="425" started-at="2014-06-11T15:48:35Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRoleAid -->
+        <test-method status="PASS" signature="getAssignedIdentities()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getAssignedIdentities" duration-ms="48" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAssignedIdentities -->
+        <test-method status="PASS" signature="getConfigProperty()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getConfigProperty" duration-ms="46" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getConfigProperty -->
+        <test-method status="PASS" signature="getConfiguration()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getConfiguration" duration-ms="252" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getConfiguration -->
+        <test-method status="PASS" signature="getContainer()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getContainer" duration-ms="66" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContainer -->
+        <test-method status="PASS" signature="getGroup()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getGroup" duration-ms="16" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getGroup -->
+        <test-method status="PASS" signature="getRole()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getRole" duration-ms="285" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRole -->
+        <test-method status="PASS" signature="getRoleCategories()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getRoleCategories" duration-ms="76" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRoleCategories -->
+        <test-method status="PASS" signature="getRoleInfo()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getRoleInfo" duration-ms="102" started-at="2014-06-11T15:48:36Z" finished-at="2014-06-11T15:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRoleInfo -->
+        <test-method status="PASS" signature="getRoleLevels()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getRoleLevels" duration-ms="137" started-at="2014-06-11T15:48:37Z" finished-at="2014-06-11T15:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRoleLevels -->
+        <test-method status="PASS" signature="getRoleLocalizedStrings()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getRoleLocalizedStrings" duration-ms="58" started-at="2014-06-11T15:48:37Z" finished-at="2014-06-11T15:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRoleLocalizedStrings -->
+        <test-method status="PASS" signature="getRolesInfoByCategory()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getRolesInfoByCategory" duration-ms="170" started-at="2014-06-11T15:48:37Z" finished-at="2014-06-11T15:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRolesInfoByCategory -->
+        <test-method status="PASS" signature="getRolesInfoByLevel()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getRolesInfoByLevel" duration-ms="190" started-at="2014-06-11T15:48:37Z" finished-at="2014-06-11T15:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRolesInfoByLevel -->
+        <test-method status="PASS" signature="getUser()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getUser" duration-ms="488" started-at="2014-06-11T15:48:37Z" finished-at="2014-06-11T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method status="PASS" signature="getVersion()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="getVersion" duration-ms="10" started-at="2014-06-11T15:48:38Z" finished-at="2014-06-11T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVersion -->
+        <test-method status="PASS" signature="isUserInRole()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="isUserInRole" duration-ms="7" started-at="2014-06-11T15:48:38Z" finished-at="2014-06-11T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isUserInRole -->
+        <test-method status="PASS" signature="modifyRole()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="modifyRole" duration-ms="503" started-at="2014-06-11T15:48:38Z" finished-at="2014-06-11T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyRole -->
+        <test-method status="PASS" signature="modifyRoleAid()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="modifyRoleAid" duration-ms="498" started-at="2014-06-11T15:48:38Z" finished-at="2014-06-11T15:48:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyRoleAid -->
+        <test-method status="PASS" signature="removeRole()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="removeRole" duration-ms="492" started-at="2014-06-11T15:48:39Z" finished-at="2014-06-11T15:48:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeRole -->
+        <test-method status="PASS" signature="removeRoleAid()[pri:0, instance:Roles_SOAPEndpoints@2d7480c9]" name="removeRoleAid" duration-ms="628" started-at="2014-06-11T15:48:39Z" finished-at="2014-06-11T15:48:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeRoleAid -->
+      </class> <!-- Roles_SOAPEndpoints -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
